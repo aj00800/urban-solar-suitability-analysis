@@ -1,0 +1,25 @@
+# Spatial data and massive datasets
+*.gpkg
+*.geojson
+*.csv
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.zip
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Keep output maps tracked, ignore the heavy raw data
+!data/output/*.png
