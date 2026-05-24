@@ -63,7 +63,7 @@ Note: The first run may take several minutes due to the large size of `californi
 
 The following Python libraries are required. Libraries marked as "extra" are not covered in class and must be installed manually.
 
-| Library | Purpose | Covered in Class |
+| Library | Purpose 
 |---|---|---|
 | `geopandas` | Spatial data (GeoDataFrames, clipping, joins) | Yes |
 | `pandas` | Tabular data manipulation | Yes |
